@@ -1,0 +1,1 @@
+# configurador-de-imagens
